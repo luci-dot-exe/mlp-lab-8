@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mlp-lab-8/static/css/main.e4889cbf.css",
+    "main.js": "/mlp-lab-8/static/js/main.9d0dddcf.js",
+    "static/js/787.58336002.chunk.js": "/mlp-lab-8/static/js/787.58336002.chunk.js",
+    "index.html": "/mlp-lab-8/index.html",
+    "main.e4889cbf.css.map": "/mlp-lab-8/static/css/main.e4889cbf.css.map",
+    "main.9d0dddcf.js.map": "/mlp-lab-8/static/js/main.9d0dddcf.js.map",
+    "787.58336002.chunk.js.map": "/mlp-lab-8/static/js/787.58336002.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4889cbf.css",
+    "static/js/main.9d0dddcf.js"
+  ]
+}
